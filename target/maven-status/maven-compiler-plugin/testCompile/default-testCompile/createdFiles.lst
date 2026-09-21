@@ -1,0 +1,6 @@
+kosynka\core\FoundationPileTest.class
+kosynka\core\KlondikeGameTest.class
+kosynka\core\DeckTest.class
+kosynka\core\TableauPileTest.class
+kosynka\core\CardTest.class
+kosynka\core\DomainPurityTest.class
